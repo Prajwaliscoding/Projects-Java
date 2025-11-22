@@ -1,0 +1,27 @@
+Sawyer Garcia 24 (Age 78): 50, 70, 54, 100 Average: 68.50
+Taylor Perez 20 (Age 56): 72, 73, 83, 64 Average: 73.00
+Harley Taylor 22 (Age 90): 99, 61, 94, 81 Average: 83.75
+Jordan Anderson 23 (Age 86): 80, 60, 55, 98 Average: 73.25
+Cameron Gonzalez 23 (Age 72): 74, 94, 96, 71 Average: 83.75
+Morgan Johnson 23 (Age 59): 78, 92, 79, 93 Average: 85.50
+Dakota Miller 22 (Age 68): 95, 64, 84, 80 Average: 80.75
+Dylan Moore 18 (Age 90): 53, 84, 93, 79 Average: 77.25
+Peyton Jones 19 (Age 88): 58, 97, 50, 75 Average: 70.00
+Sydney Anderson 25 (Age 60): 80, 63, 70, 74 Average: 71.75
+Logan Lopez 19 (Age 100): 64, 64, 99, 65 Average: 73.00
+Emerson Gonzalez 18 (Age 97): 95, 64, 94, 57 Average: 77.50
+Skyler Wilson 20 (Age 63): 85, 58, 82, 58 Average: 70.75
+Charlie Brown 25 (Age 88): 57, 99, 53, 76 Average: 71.25
+Cameron Lee 23 (Age 78): 55, 63, 60, 57 Average: 58.75
+Dylan Davis 20 (Age 79): 58, 95, 81, 64 Average: 74.50
+Sydney Moore 21 (Age 64): 100, 59, 68, 58 Average: 71.25
+Sydney Jackson 21 (Age 90): 57, 85, 67, 80 Average: 72.25
+Jamie Martin 20 (Age 64): 93, 56, 92, 64 Average: 76.25
+Peyton Perez 21 (Age 72): 88, 69, 87, 66 Average: 77.50
+Dylan Garcia 24 (Age 83): 55, 50, 62, 77 Average: 61.00
+Blake Miller 23 (Age 68): 58, 81, 76, 80 Average: 73.75
+Emerson Lee 23 (Age 50): 100, 57, 81, 61 Average: 74.75
+Quinn Jackson 25 (Age 53): 90, 88, 70, 76 Average: 81.00
+Riley Martinez 22 (Age 58): 77, 72, 54, 69 Average: 68.00
+
+Overall Average Score: 73.96
