@@ -1,0 +1,6 @@
+Java is a versatile programming language.
+It is widely used for building enterprise applications.
+Many developers enjoy learning Java because of its strong community support.
+File I/O operations are essential for processing text data.
+This line does not mention the keyword directly.
+Java can run on many different platforms.

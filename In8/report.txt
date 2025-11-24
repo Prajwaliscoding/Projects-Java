@@ -1,0 +1,6 @@
+Text File Analysis Report
+-------------------------
+Total lines: 6
+Total words: 49
+Total characters: 320
+Lines containing keyword "Java": 3
